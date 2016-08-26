@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Javaluator-v3.0">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-3.0.1.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-demo-3.0.1.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-3.0.1-javadoc.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-3.0.1-sources.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-examples-3.0.1.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-demo-3.0.1-sources.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/original-javaluator-demo-3.0.1.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-examples-3.0.1-javadoc.jar" />
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/Javaluator-v3.0.1/javaluator-examples-3.0.1-sources.jar" />
+  </library>
+  <library name="dsp-collection">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/dsp-collection/dsp-collection.jar" />
+  </library>
+  <library name="jcommon-1.0.23">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" />
+  </library>
+  <library name="jfreechart-1.0">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar" />
+  </library>
+  <library name="jfreechart-1.0.19">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" />
+  </library>
+  <library name="jfreechart-1.0.19-swt">
+    <archive path="C:/Users/Kevin/IdeaProjects/ENGG4810/engg4810-team12/lib/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar" />
+  </library>
+</eclipse-userlibraries>
+

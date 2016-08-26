@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Javaluator-v3.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/Javaluator-v3.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/Javaluator-v3.0.1" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Javaluator-v3.0.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Javaluator-v3.0.1" recursive="false" type="SOURCES" />
+  </library>
+</component>

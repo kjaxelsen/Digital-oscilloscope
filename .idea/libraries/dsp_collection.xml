@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dsp-collection">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/dsp-collection" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/dsp-collection/target/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/dsp-collection/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/dsp-collection/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/dsp-collection" recursive="false" />
+  </library>
+</component>
